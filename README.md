@@ -35,7 +35,7 @@ Tools: ![Python](https://img.shields.io/badge/Python-%48ee11?logo=python&logoCol
 ## 🎓 Education
 
 - **M.Sc. in Business Analytics, UC Davis** _(Jun 2024)_  
-- **B.Eng. in Computer Science and Engineering, PES Institute of Technology** _(August 2021)_  
+- **B.Eng. in Computer Science and Engineering, PES Institute of Technology** _(Aug 2021)_  
 
 ## 💼 Experience
 
