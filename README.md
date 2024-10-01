@@ -5,7 +5,7 @@
 
 ## 👩‍💻 About Me
 
-Hey there! I am a recent Master's of Science graduate in Business Analytics from UC Davis, skilled in advanced analytics, and machine learning, with expertise in developing data pipelines and visualizations.
+Hey there! I am a recent Master of Science graduate in Business Analytics from UC Davis, skilled in advanced analytics, and machine learning, with expertise in developing data pipelines and visualizations.
 
 Tools: ![Python](https://img.shields.io/badge/Python-%48ee11?logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-blue?logo=r&logoColor=white)
@@ -26,7 +26,7 @@ Tools: ![Python](https://img.shields.io/badge/Python-%48ee11?logo=python&logoCol
 ![Rasa](https://img.shields.io/badge/Rasa-%23bf19ef?logo=rasa&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230382fb?logo=docker&logoColor=white)
 
-- **Specialities:** Text Analytics, Data Visualization, Predictive Modeling, Data Mining, Statistical Analysis, Hypothesis testing, A/B testing, Time Series Analysis, Data Engineering
+- **Specialties:** Text Analytics, Data Visualization, Predictive Modeling, Data Mining, Statistical Analysis, Hypothesis testing, A/B testing, Time Series Analysis, Data Engineering
 - **Skills:** Python(Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Spacy, NLTK, TensorFlow, Pytorch), SQL, R, AWS (S3, EC2, Lambda), Tableau, MS Excel(Formulas, Pivot Tables, VLookup, Macros)
 - **Techniques:** Regression (Linear, Logistic, Ridge), Random Forest, XGBoost, Clustering, Decision Trees, KNN, Sentiment Analysis, Neural Networks 
 
