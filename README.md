@@ -39,10 +39,11 @@ Tools: ![Python](https://img.shields.io/badge/Python-%48ee11?logo=python&logoCol
 
 ## 💼 Experience
 
-- **Data Analyst & Project Manager:** Led a team of analysts and implemented pipelines to boost customer satisfaction and targeting.
-- **Graduate Student Analyst:** Built automated solutions to enhance financial system operations and reduce commission calculation time.
-- **Software Developer:** Developed custom chatbots tailored for professionals experiencing work-related stress. 
-- **Back End Developer Intern:** Designed and hosted a web app to analyze students' academic struggles and mental health needs.
+- **Senior Analyst at Walmart Connect:**: Managed $40M+ in client advertising investments, delivering data-driven insights that shaped marketing strategies, improved campaign efficiency, and drove double-digit revenue growth.
+- **Data Analyst & Project Manager at PlushyHost:** Led a team of analysts and implemented pipelines to boost customer satisfaction and targeting.
+- **Digital Analyst at Deloitte:** Built automated solutions to enhance financial system operations and reduce commission calculation time.
+- **Software Developer at Comono AS:** Developed custom chatbots tailored for professionals experiencing work-related stress. 
+- **Back End Developer Intern at Global Discovery Schools:** Designed and hosted a web app to analyze students' academic struggles and mental health needs.
 
 ## 📜 Certifications
 
